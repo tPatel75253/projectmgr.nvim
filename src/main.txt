@@ -1,2 +1,3 @@
 Quickly switch between projects and automate startup tasks.
 # clarify the control flow
+# handle the edge case from the last release
