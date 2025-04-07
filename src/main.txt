@@ -1,1 +1,2 @@
 Quickly switch between projects and automate startup tasks.
+# clarify the control flow
