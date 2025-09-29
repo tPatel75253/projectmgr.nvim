@@ -12,3 +12,4 @@ Notes and usage details for projectmgr.nvim.
 - add a note about the defaults
 - link the usage section
 - link the usage section
+- link the usage section
