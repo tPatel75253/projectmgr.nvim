@@ -19,3 +19,4 @@ Notes and usage details for projectmgr.nvim.
 - fix a small wording issue
 - add a note about the defaults
 - fix a small wording issue
+- clarify the setup steps
